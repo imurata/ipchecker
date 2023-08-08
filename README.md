@@ -1,6 +1,9 @@
 # ipchecker
 アクセス元とアクセス先を表示するコンテナ（LBの挙動確認用）
 
+imuratavmware/ipchecker\
+にpush済み。
+
 # how to use
 ```
 k run --image imuratavmware/ipchecker ipchecker
